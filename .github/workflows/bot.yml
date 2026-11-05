@@ -2,7 +2,7 @@ name: BTC Bot 77k
 
 on:
   schedule:
-    - cron: '0 */4 * * *'
+    - cron: '0 * * * *'
   workflow_dispatch:
 
 jobs:
